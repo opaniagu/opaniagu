@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <h3 align="left">Skills</h3><br />
 <p align="left">
     <a href="https://fastapi.tiangolo.com/" target="_blank""><img
-            src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="bash" width="40" height="40" /></a>
+            src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="bash" width="40" height="40" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
     <a href="https://getbootstrap.com" target="_blank"> <img
@@ -87,4 +87,4 @@ Here are some ideas to get you started:
             alt="vuejs" width="40" height="40" /> </a>
     <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify"
             width="40" height="40" /> </a>
-</p>z
+</p>
