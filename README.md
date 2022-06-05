@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Skills</h3><br />
 <p align="left">
-    <a href="https://fastapi.tiangolo.com/" target="_blank""><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>FastAPI</title><path d="M12 0C5.375 0 0 5.375 0 12c0 6.627 5.375 12 12 12 6.626 0 12-5.373 12-12 0-6.625-5.373-12-12-12zm-.624 21.62v-7.528H7.19L13.203 2.38v7.528h4.029L11.376 21.62z"/></svg>
+    <a href="https://fastapi.tiangolo.com/" target="_blank""><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.375 0 0 5.375 0 12c0 6.627 5.375 12 12 12 6.626 0 12-5.373 12-12 0-6.625-5.373-12-12-12zm-.624 21.62v-7.528H7.19L13.203 2.38v7.528h4.029L11.376 21.62z"/></svg>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
     <a href="https://getbootstrap.com" target="_blank"> <img
