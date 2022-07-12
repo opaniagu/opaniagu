@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **opaniagu@gmail.com**
 
-- ⚡ Fun fact **travel, running and outdoor activities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
